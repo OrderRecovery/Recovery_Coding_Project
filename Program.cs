@@ -6,7 +6,9 @@ namespace Recovery_Coding_Project
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Selam Ümran");
+            Console.WriteLine("Selam Oğuzhan");
+            Console.WriteLine("Selam Ali");
         }
     }
 }
